@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m **James Jabal**, a licensed P.E.,  
+With a love for tech and curiosity.
 
-<!--
-**jamesjabal/jamesjabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📺 From **x86 code** and demoscene flames,  
+To **Bash** and **Perl** in research domains.
 
-Here are some ideas to get you started:
+🧪 I’ve automated labs with **VBA**,  
+Now learning new tools the modern way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 **First formal class**, and I’m here to grow,  
+With Python, AI, and GPU flow.
+
+🖥️ On **Windows 11**, I’m ready today,  
+Can’t wait to code that GPU someday!
